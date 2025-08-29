@@ -1,0 +1,252 @@
+[
+  {
+    "question": "What is 5 + 3?",
+    "options": ["6", "7", "8", "9"],
+    "correct": 2
+  },
+  {
+    "question": "Capital of India?",
+    "options": ["Mumbai", "Delhi", "Kolkata", "Chennai"],
+    "correct": 1
+  },
+  {
+    "question": "Who invented the telephone?",
+    "options": ["Edison", "Bell", "Tesla", "Newton"],
+    "correct": 1
+  },
+  {
+    "question": "What is 12 × 4?",
+    "options": ["44", "46", "48", "50"],
+    "correct": 2
+  },
+  {
+    "question": "Largest planet in our solar system?",
+    "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "correct": 2
+  },
+  {
+    "question": "What is the square root of 64?",
+    "options": ["6", "7", "8", "9"],
+    "correct": 2
+  },
+  {
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "options": ["Dickens", "Shakespeare", "Austen", "Wilde"],
+    "correct": 1
+  },
+  {
+    "question": "What is 15 - 7?",
+    "options": ["6", "7", "8", "9"],
+    "correct": 2
+  },
+  {
+    "question": "Chemical symbol for Gold?",
+    "options": ["Go", "Gd", "Au", "Ag"],
+    "correct": 2
+  },
+  {
+    "question": "How many sides does a triangle have?",
+    "options": ["2", "3", "4", "5"],
+    "correct": 1
+  },
+  {
+    "question": "What is 100 ÷ 4?",
+    "options": ["20", "25", "30", "35"],
+    "correct": 1
+  },
+  {
+    "question": "First man on the moon?",
+    "options": ["Buzz Aldrin", "Neil Armstrong", "John Glenn", "Alan Shepard"],
+    "correct": 1
+  },
+  {
+    "question": "What is 2³?",
+    "options": ["6", "8", "9", "12"],
+    "correct": 1
+  },
+  {
+    "question": "Smallest country in the world?",
+    "options": ["Monaco", "Vatican City", "San Marino", "Liechtenstein"],
+    "correct": 1
+  },
+  {
+    "question": "What is 9 × 7?",
+    "options": ["61", "62", "63", "64"],
+    "correct": 2
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": ["Van Gogh", "Da Vinci", "Picasso", "Monet"],
+    "correct": 1
+  },
+  {
+    "question": "What is 45 + 28?",
+    "options": ["71", "72", "73", "74"],
+    "correct": 2
+  },
+  {
+    "question": "Longest river in the world?",
+    "options": ["Amazon", "Nile", "Ganges", "Mississippi"],
+    "correct": 1
+  },
+  {
+    "question": "What is 81 ÷ 9?",
+    "options": ["8", "9", "10", "11"],
+    "correct": 1
+  },
+  {
+    "question": "How many continents are there?",
+    "options": ["5", "6", "7", "8"],
+    "correct": 2
+  },
+  {
+    "question": "What is 6 × 8?",
+    "options": ["46", "48", "50", "52"],
+    "correct": 1
+  },
+  {
+    "question": "Who discovered electricity?",
+    "options": ["Edison", "Tesla", "Franklin", "Faraday"],
+    "correct": 2
+  },
+  {
+    "question": "What is 95 - 37?",
+    "options": ["56", "57", "58", "59"],
+    "correct": 2
+  },
+  {
+    "question": "Currency of Japan?",
+    "options": ["Yuan", "Won", "Yen", "Rupee"],
+    "correct": 2
+  },
+  {
+    "question": "What is 144 ÷ 12?",
+    "options": ["10", "11", "12", "13"],
+    "correct": 2
+  },
+  {
+    "question": "Fastest land animal?",
+    "options": ["Lion", "Cheetah", "Leopard", "Tiger"],
+    "correct": 1
+  },
+  {
+    "question": "What is 7²?",
+    "options": ["47", "48", "49", "50"],
+    "correct": 2
+  },
+  {
+    "question": "Who invented the light bulb?",
+    "options": ["Edison", "Tesla", "Bell", "Wright"],
+    "correct": 0
+  },
+  {
+    "question": "What is 13 + 29?",
+    "options": ["40", "41", "42", "43"],
+    "correct": 2
+  },
+  {
+    "question": "Highest mountain peak?",
+    "options": ["K2", "Everest", "Kangchenjunga", "Annapurna"],
+    "correct": 1
+  },
+  {
+    "question": "What is 8 × 9?",
+    "options": ["70", "71", "72", "73"],
+    "correct": 2
+  },
+  {
+    "question": "Planet closest to the Sun?",
+    "options": ["Venus", "Mercury", "Earth", "Mars"],
+    "correct": 1
+  },
+  {
+    "question": "What is 76 - 28?",
+    "options": ["46", "47", "48", "49"],
+    "correct": 2
+  },
+  {
+    "question": "Author of Harry Potter series?",
+    "options": ["J.R.R. Tolkien", "J.K. Rowling", "Roald Dahl", "C.S. Lewis"],
+    "correct": 1
+  },
+  {
+    "question": "What is 156 ÷ 13?",
+    "options": ["11", "12", "13", "14"],
+    "correct": 1
+  },
+  {
+    "question": "Largest ocean on Earth?",
+    "options": ["Atlantic", "Indian", "Arctic", "Pacific"],
+    "correct": 3
+  },
+  {
+    "question": "What is 11 × 6?",
+    "options": ["64", "65", "66", "67"],
+    "correct": 2
+  },
+  {
+    "question": "Who painted 'Starry Night'?",
+    "options": ["Picasso", "Van Gogh", "Monet", "Da Vinci"],
+    "correct": 1
+  },
+  {
+    "question": "What is 92 + 38?",
+    "options": ["128", "129", "130", "131"],
+    "correct": 2
+  },
+  {
+    "question": "Number of bones in adult human body?",
+    "options": ["204", "206", "208", "210"],
+    "correct": 1
+  },
+  {
+    "question": "What is 10³?",
+    "options": ["100", "1000", "10000", "30"],
+    "correct": 1
+  },
+  {
+    "question": "Capital of Australia?",
+    "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+    "correct": 2
+  },
+  {
+    "question": "What is 17 × 3?",
+    "options": ["49", "50", "51", "52"],
+    "correct": 2
+  },
+  {
+    "question": "Who developed the theory of relativity?",
+    "options": ["Newton", "Einstein", "Galileo", "Hawking"],
+    "correct": 1
+  },
+  {
+    "question": "What is 128 - 49?",
+    "options": ["77", "78", "79", "80"],
+    "correct": 2
+  },
+  {
+    "question": "Hardest natural substance?",
+    "options": ["Gold", "Iron", "Diamond", "Silver"],
+    "correct": 2
+  },
+  {
+    "question": "What is 225 ÷ 15?",
+    "options": ["13", "14", "15", "16"],
+    "correct": 2
+  },
+  {
+    "question": "How many hearts does an octopus have?",
+    "options": ["1", "2", "3", "4"],
+    "correct": 2
+  },
+  {
+    "question": "What is 14 × 5?",
+    "options": ["68", "69", "70", "71"],
+    "correct": 2
+  },
+  {
+    "question": "First President of USA?",
+    "options": ["Jefferson", "Washington", "Adams", "Lincoln"],
+    "correct": 1
+  }
+]
